@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Laptop",
+    "totalItems": 25,
+    "itemsInStock": 10,
+    "threshold" : "43%"
+  },
+  {
+    "name": "Smartphone",
+    "totalItems": 35,
+    "itemsInStock": 20,
+    "threshold" : "35%"
+  },
+  {
+    "name": "Headphones",
+    "totalItems": 52,
+    "itemsInStock": 40,
+    "threshold" : "15%"
+  },
+  {
+    "name": "Tablet",
+    "totalItems": 37,
+    "itemsInStock": 27,
+    "threshold" : "22%"
+  },
+  {
+    "name": "Camera",
+    "totalItems": 31,
+    "itemsInStock": 18,
+    "threshold" : "33%"
+  },
+  {
+    "name": "Shirt",
+    "totalItems": 28,
+    "itemsInStock": 20,
+    "threshold" : "12%"
+  },
+  {
+    "name": "Pants",
+    "totalItems": 52,
+    "itemsInStock": 18,
+    "threshold" : "18%"
+  },
+  {
+    "name": "Dress",
+    "totalItems": 48,
+    "itemsInStock": 33,
+    "threshold" : "40%"
+  },
+  {
+    "name": "Jacket",
+    "totalItems": 95,
+    "itemsInStock": 22,
+    "threshold" : "5%"
+  },
+  {
+    "name": "Shoes",
+    "totalItems": 71,
+    "itemsInStock": 17,
+    "threshold" : "35%"
+  },
+  {
+    "name": "Watch",
+    "totalItems": 68,
+    "itemsInStock": 23,
+    "threshold" : "25%"
+  },
+  {
+    "name": "Gaming Console",
+    "totalItems": 62,
+    "itemsInStock": 50,
+    "threshold" : "15%"
+  }
+]

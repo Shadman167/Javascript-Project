@@ -1,0 +1,44 @@
+{
+  "Data": [
+    {
+      "Month": "January",
+      "TotalRemaining": 500,
+      "TotalSpent": 300,
+      "InPercentage": 60,
+      "Target": 1000,
+      "SpentVariable": 200
+    },
+    {
+      "Month": "February",
+      "TotalRemaining": 400,
+      "TotalSpent": 350,
+      "InPercentage": 70,
+      "Target": 800,
+      "SpentVariable": 150
+    },
+    {
+      "Month": "March",
+      "TotalRemaining": 600,
+      "TotalSpent": 200,
+      "InPercentage": 33.33,
+      "Target": 1000,
+      "SpentVariable": 400
+    },
+    {
+      "Month": "April",
+      "TotalRemaining": 800,
+      "TotalSpent": 250,
+      "InPercentage": 31.25,
+      "Target": 1200,
+      "SpentVariable": 550
+    },
+    {
+      "Month": "May",
+      "TotalRemaining": 900,
+      "TotalSpent": 400,
+      "InPercentage": 44.44,
+      "Target": 1500,
+      "SpentVariable": 500
+    }
+  ]
+}
